@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "logo": "img/bookmakers-logo/bookmaker-logo-1X.svg",
+    "verified": true,
+    "rating": "4.9",
+    "reviews_count": 325,
+    "bonus": "25K ₽",
+    "badge": "exclusive",
+    "badge_name": "Эксклюзив",
+    "reliability": 95,
+    "internal_link": "/bk/1",
+    "external_link": "https://partner1.com"
+  },
+  {
+    "id": 2,
+    "logo": "img/bookmakers-logo/bookmaker-logo-FONBET.svg",
+    "verified": true,
+    "rating": "4.8",
+    "reviews_count": 123,
+    "bonus": "101K ₽",
+    "badge": "no-deposit",
+    "badge_name": "Без депозита",
+    "reliability": 90,
+    "internal_link": "/bk/2",
+    "external_link": "https://partner2.com"
+  },
+  {
+    "id": 3,
+    "logo": "img/bookmakers-logo/bookmaker-logo-LEON.svg",
+    "verified": true,
+    "rating": "4.7",
+    "reviews_count": 325,
+    "bonus": "101K ₽",
+    "badge": null,
+    "badge_name": null,
+    "reliability": 80,
+    "internal_link": "/bk/3",
+    "external_link": "https://partner3.com"
+  },
+  {
+    "id": 4,
+    "logo": "img/bookmakers-logo/bookmaker-logo-WINLINE.svg",
+    "verified": true,
+    "rating": "4.6",
+    "reviews_count": 43,
+    "bonus": null,
+    "badge": "no-bonus",
+    "badge_name": "Нет бонуса",
+    "reliability": 75,
+    "internal_link": "/bk/4",
+    "external_link": "https://partner4.com"
+  },
+  {
+    "id": 5,
+    "logo": "img/bookmakers-logo/bookmaker-logo-MELBET.svg",
+    "verified": true,
+    "rating": "5.0",
+    "reviews_count": 34,
+    "bonus": "25K ₽",
+    "badge": "no-deposit",
+    "badge_name": "Без депозита",
+    "reliability": 85,
+    "internal_link": "/bk/5",
+    "external_link": "https://partner5.com"
+  },
+  {
+    "id": 6,
+    "logo": "img/bookmakers-logo/bookmaker-logo-1X.svg",
+    "verified": true,
+    "rating": "4.5",
+    "reviews_count": 109,
+    "bonus": "9.9K ₽",
+    "badge": null,
+    "badge_name": null,
+    "reliability": 70,
+    "internal_link": "/bk/6",
+    "external_link": "https://partner6.com"
+  }
+]
