@@ -47,17 +47,10 @@ ul {
 .bookmakers {
   max-width: 808px;
   margin: auto;
-  /* width: 100%; */
+  width: 100%;
 }
 
-@media(max-width:655px) {
-    .bookmakers {
-        width: fit-content;
-        min-width: 450px;
-    }
-}
-
-@media(min-width:360px) {
+@media(max-width:360px) {
     .bookmakers {
         width: fit-content;
         min-width: 343px;
@@ -117,7 +110,7 @@ ul {
     width: 4px;
     height: 16px;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-position: center;
     padding: 0;
 }
 
@@ -549,6 +542,7 @@ ul {
         line-height: 100%;
         text-transform: uppercase;
         padding: 26px 0 20px;
+        color: #262F56;
     }
 }
 
